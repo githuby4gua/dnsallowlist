@@ -1,0 +1,34 @@
+# Apple core services
+apple.com
+akadns.net
+apple-dns.net
+
+# iCloud / Apple ID
+icloud.com
+icloud-content.com
+gateway.icloud.com
+
+# App Store / media
+itunes.apple.com
+apps.apple.com
+mzstatic.com
+apple-cloudkit.com
+
+# Push / notifications
+push.apple.com
+notification.apple.com
+
+# Device services
+ess.apple.com
+gdmf.apple.com
+configuration.apple.com
+findmydevice.apple.com
+
+# OS & app updates
+swscan.apple.com
+swquery.apple.com
+swdownload.apple.com
+swcdn.apple.com
+updates.cdn-apple.com
+updates-http.cdn-apple.com
+cdn-apple.com
