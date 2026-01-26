@@ -7,16 +7,20 @@ apple-dns.net
 icloud.com
 icloud-content.com
 gateway.icloud.com
+appleid.apple.com
 
 # App Store / media
 itunes.apple.com
 apps.apple.com
 mzstatic.com
 apple-cloudkit.com
+apple-livephotoskit.com
 
 # Push / notifications
 push.apple.com
 notification.apple.com
+@@||push-apple.com.akadns.net^$important
+@@||gdmf.apple.com.akadns.net^$important
 
 # Device services
 ess.apple.com
@@ -29,6 +33,6 @@ swscan.apple.com
 swquery.apple.com
 swdownload.apple.com
 swcdn.apple.com
-updates.cdn-apple.com
-updates-http.cdn-apple.com
-cdn-apple.com
+@@||updates.cdn-apple.com^$important
+@@||updates-http.cdn-apple.com^$important
+@@||cdn-apple.com^$important
