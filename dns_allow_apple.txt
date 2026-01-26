@@ -1,38 +1,38 @@
 # Apple core services
-apple.com
-akadns.net
-apple-dns.net
+@@||apple.com^$important
+@@||akadns.net^$important
+@@||apple-dns.net^$important
 
 # iCloud / Apple ID
-icloud.com
-icloud-content.com
-gateway.icloud.com
-appleid.apple.com
+@@||icloud.com^$important
+@@||icloud-content.com^$important
+@@||gateway.icloud.com^$important
+@@||appleid.apple.com^$important
 
 # App Store / media
-itunes.apple.com
-apps.apple.com
-mzstatic.com
-apple-cloudkit.com
-apple-livephotoskit.com
+@@||itunes.apple.com^$important
+@@||apps.apple.com^$important
+@@||mzstatic.com^$important
+@@||apple-cloudkit.com^$important
+@@||apple-livephotoskit.com^$important
 
 # Push / notifications
-push.apple.com
-notification.apple.com
+@@||push.apple.com^$important
+@@||notification.apple.com^$important
 @@||push-apple.com.akadns.net^$important
 @@||gdmf.apple.com.akadns.net^$important
 
 # Device services
-ess.apple.com
-gdmf.apple.com
-configuration.apple.com
-findmydevice.apple.com
+@@||ess.apple.com^$important
+@@||gdmf.apple.com^$important
+@@||configuration.apple.com^$important
+@@||findmydevice.apple.com^$important
 
 # OS & app updates
-swscan.apple.com
-swquery.apple.com
-swdownload.apple.com
-swcdn.apple.com
+@@||swscan.apple.com^$important
+@@||swquery.apple.com^$important
+@@||swdownload.apple.com^$important
+@@||swcdn.apple.com^$important
 @@||updates.cdn-apple.com^$important
 @@||updates-http.cdn-apple.com^$important
 @@||cdn-apple.com^$important
