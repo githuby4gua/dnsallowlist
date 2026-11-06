@@ -1,4 +1,5 @@
 # Disney+ - AdGuard Home DNS allowlist
+
 @@||disneyplus.com^
 @@||disney-plus.net^
 @@||bamgrid.com^
