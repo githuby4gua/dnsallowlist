@@ -1,8 +1,4 @@
 # Apple services - conservative allowlist for AdGuard Home
-# 2026-11-06: narrower replacement based on prior self-managed list.
-# These are compatibility exceptions, not a verified list of required domains.
-# Broad parent domains (apple.com, icloud.com, akadns.net, apple-dns.net)
-# intentionally not included; add only after a confirmed query-log block.
 
 # Apple ID / account sign-in
 @@||appleid.apple.com^
@@ -39,9 +35,3 @@
 @@||updates-http.cdn-apple.com^
 @@||mesu.apple.com^
 @@||appldnld.apple.com^
-
-# Intentionally excluded pending query-log evidence:
-# doh.dns.apple.com (Apple DNS-over-HTTPS; not necessary to allow broadly)
-# xp.apple.com, gg.apple.com (verify purpose before exception)
-# gdmf.apple.com.akadns.net (usually covered by allowing the queried hostname)
-# cdn-apple.com, icloud-content.com (broad parent exceptions)
