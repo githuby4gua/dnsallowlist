@@ -1,4 +1,3 @@
-
 # Microsoft sign-in and related application endpoints - AdGuard Home DNS allowlist
 
 # Authentication
