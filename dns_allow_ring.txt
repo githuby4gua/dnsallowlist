@@ -1,4 +1,5 @@
 # Ring - AdGuard Home DNS allowlist
+
 @@||ring.com^
 @@||ring.amazon.dev^
 @@||rings.solutions^
