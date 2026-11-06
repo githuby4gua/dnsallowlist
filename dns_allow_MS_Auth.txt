@@ -1,11 +1,13 @@
-@@||outlook.com^$dns
-@@||outlook.office.com^$dns
-@@||outlook.office365.com^$dns
-@@||office.com^$dns
-@@||login.live.com^$dns
-@@||login.microsoftonline.com^$dns
-@@||graph.microsoft.com^$dns
-@@||device.login.microsoftonline.com^$dns
-@@||live.com^$dns
-@@||msauth.net^$dns
-@@||msftauth.net^$dns
+
+# Microsoft sign-in and related application endpoints - AdGuard Home DNS allowlist
+
+# Authentication
+@@||login.live.com^
+@@||login.microsoftonline.com^
+@@||msauth.net^
+@@||msftauth.net^
+
+# Office / Outlook specific endpoints
+@@||outlook.office.com^
+@@||outlook.office365.com^
+@@||graph.microsoft.com^
